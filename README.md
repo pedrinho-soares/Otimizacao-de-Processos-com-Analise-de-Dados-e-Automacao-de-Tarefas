@@ -3,7 +3,7 @@ Automatizar tarefas não precisa ser um bicho de 7 cabeças. Este projeto que re
 
 OBJETIVO: Realizar análises de dados brevemente utilizando "Input" e apertando um unico botão ele abre o navegador, abre o gmail, clica no botão de "Escrever", digita o destinatário, digita o assunto, escreve o e-mail e envia para o seu chefe com todos os dados organizados e ditos em média, minima, maxima.
 
-Modelo do E-mail:
+Modelo do E-mail criado:
 _______________________________________________________________
 Prezado Gestor,
 
